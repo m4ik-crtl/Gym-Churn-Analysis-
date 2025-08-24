@@ -1,6 +1,6 @@
 # Gym Churn Analysis 🏋️‍♂️📉
 
-Este projeto faz parte do **bootcamp de análise de dados** e tem como objetivo estudar a **retenção e cancelamento de clientes (churn)** em uma rede de academias nos EUA.
+Este projeto tem como objetivo estudar a **retenção e cancelamento de clientes (churn)** em uma rede de academias nos EUA.
 
 ## 🎯 Objetivo
 Analisar os dados de clientes e prever o risco de churn, de forma a apoiar o time de marketing e retenção na definição de estratégias.
